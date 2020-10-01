@@ -1,0 +1,17 @@
+name: contacts_app_client
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.7.0 <3.0.0'
+dependencies: 
+  cupertino_icons: ^1.0.0
+  dio: ^3.0.10
+  faker: ^1.2.1
+  flutter: 
+    sdk: flutter
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
