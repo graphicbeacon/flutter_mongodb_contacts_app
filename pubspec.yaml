@@ -1,0 +1,6 @@
+name: contacts_app
+version: 1.0.0
+description: An contacts list app written in Flutter and Dart
+repository: https://github.com/graphicbeacon/flutter_mongodb_contacts_app
+environment: 
+  sdk: '>=2.8.1 <3.0.0'
